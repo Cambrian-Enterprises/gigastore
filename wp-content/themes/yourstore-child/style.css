@@ -1,0 +1,11 @@
+/*
+Theme Name:     Yourstore Child
+Theme URI:      http://www.smartdatasoft.com/
+Description:    Child theme for Yourstore
+Author:         Smartdatasoft Team
+Author URI:     http://www.smartdatasoft.com
+Template:       yourstore
+Version:        1.0
+*/
+
+@import url("../yourstore/style.css");
